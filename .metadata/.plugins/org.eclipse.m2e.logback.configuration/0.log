@@ -1,0 +1,147 @@
+2017-06-29 02:14:09,185 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-06-29 02:18:41,905 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /Users/ltaylor/maven-git-test/testclasses/pom.xml
+2017-06-29 02:18:42,676 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lttest.git.maven:testclasses:0.0.1-SNAPSHOT @ /Users/ltaylor/maven-git-test/testclasses/pom.xml.
+2017-06-29 02:18:43,175 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /testclasses/src/main/java
+2017-06-29 02:18:43,184 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /testclasses/src/test/java
+2017-06-29 02:18:44,478 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2017-06-29 02:18:45,079 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-29 02:18:45,080 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/main/resources
+2017-06-29 02:18:45,081 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-29 02:18:45,082 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/test/resources
+2017-06-29 02:18:58,192 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-29 02:18:58,192 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/main/resources
+2017-06-29 02:18:58,194 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-29 02:18:58,194 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/test/resources
+2017-06-29 02:54:34,080 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-06-29 22:40:03,218 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-29 22:40:03,219 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/main/resources
+2017-06-29 22:40:03,220 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-29 22:40:03,221 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/test/resources
+2017-06-29 22:42:33,341 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-29 22:42:33,341 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/main/resources
+2017-06-29 22:42:33,342 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-29 22:42:33,342 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/test/resources
+2017-06-29 22:43:19,876 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-29 22:43:19,876 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/main/resources
+2017-06-29 22:43:19,877 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-29 22:43:19,877 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/test/resources
+2017-06-29 23:11:00,333 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-29 23:11:00,333 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/main/resources
+2017-06-29 23:11:00,334 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-29 23:11:00,335 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/test/resources
+2017-06-29 23:18:48,028 [Worker-140] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-06-29 23:18:48,528 [Worker-140] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lttest.git.maven:testclasses:0.0.1-SNAPSHOT @ /Users/ltaylor/maven-git-test/testclasses/pom.xml.
+2017-06-29 23:18:48,763 [Worker-140] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /testclasses/src/main/java
+2017-06-29 23:18:48,763 [Worker-140] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /testclasses/src/test/java
+2017-06-29 23:18:48,837 [Worker-140] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-06-29 23:18:49,000 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-29 23:18:49,000 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/main/resources
+2017-06-29 23:18:49,002 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-29 23:18:49,002 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/test/resources
+2017-06-29 23:19:24,835 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-29 23:19:24,835 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/main/resources
+2017-06-29 23:19:24,836 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-29 23:19:24,836 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/test/resources
+2017-06-29 23:44:52,879 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-29 23:44:52,879 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/main/resources
+2017-06-29 23:44:52,880 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-29 23:44:52,880 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/test/resources
+2017-06-29 23:46:34,221 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-29 23:46:34,222 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/main/resources
+2017-06-29 23:46:34,223 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-29 23:46:34,223 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/test/resources
+2017-06-30 17:51:25,510 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:51:25,510 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/main/resources
+2017-06-30 17:51:25,511 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:51:25,512 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/test/resources
+2017-06-30 18:10:52,758 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:10:52,758 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/main/resources
+2017-06-30 18:10:52,759 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:10:52,759 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/test/resources
+2017-06-30 18:12:16,309 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:12:16,310 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/main/resources
+2017-06-30 18:12:16,310 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:12:16,310 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/test/resources
+2017-06-30 18:15:36,643 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:15:36,643 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/main/resources
+2017-06-30 18:15:36,644 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:15:36,644 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/test/resources
+2017-06-30 18:23:49,811 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:23:49,811 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/main/resources
+2017-06-30 18:23:49,812 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:23:49,812 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/test/resources
+2017-06-30 18:26:35,718 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:26:35,718 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/main/resources
+2017-06-30 18:26:35,720 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:26:35,720 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/test/resources
+2017-06-30 18:26:36,729 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:26:36,730 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/main/resources
+2017-06-30 18:26:36,731 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:26:36,731 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/test/resources
+2017-06-30 18:27:27,867 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:27:27,867 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/main/resources
+2017-06-30 18:27:27,868 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:27:27,868 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/test/resources
+2017-06-30 18:27:47,834 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:27:47,835 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/main/resources
+2017-06-30 18:27:47,835 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:27:47,835 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/test/resources
+2017-06-30 18:36:14,582 [Worker-5] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-06-30 18:46:12,153 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:46:12,153 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/main/resources
+2017-06-30 18:46:12,155 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:46:12,155 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/test/resources
+2017-07-08 16:13:48,962 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-07-08 16:16:27,593 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-07-08 16:17:57,105 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-08 16:17:57,106 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/main/resources
+2017-07-08 16:17:57,107 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-08 16:17:57,108 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/test/resources
+2017-07-08 16:25:10,475 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-08 16:25:10,475 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/main/resources
+2017-07-08 16:25:10,477 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-08 16:25:10,477 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/test/resources
+2017-07-09 14:06:32,938 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-09 14:06:32,939 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/main/resources
+2017-07-09 14:06:32,940 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-09 14:06:32,940 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/test/resources
+2017-07-09 14:50:11,047 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-09 14:50:11,047 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/main/resources
+2017-07-09 14:50:11,048 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-09 14:50:11,048 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/test/resources
+2017-07-09 14:50:40,050 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-09 14:50:40,050 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/main/resources
+2017-07-09 14:50:40,051 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-09 14:50:40,051 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/test/resources
+2017-07-09 15:25:14,235 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-09 15:25:14,236 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/main/resources
+2017-07-09 15:25:14,237 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-09 15:25:14,237 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/test/resources
+2017-07-09 15:26:35,910 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-09 15:26:35,910 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/main/resources
+2017-07-09 15:26:35,911 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-09 15:26:35,911 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/test/resources
+2017-07-09 15:26:54,340 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-09 15:26:54,340 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/main/resources
+2017-07-09 15:26:54,340 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-09 15:26:54,341 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/test/resources
+2017-07-09 15:27:09,125 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-09 15:27:09,125 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/main/resources
+2017-07-09 15:27:09,126 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-09 15:27:09,126 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/test/resources
+2017-07-09 15:28:26,457 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-09 15:28:26,457 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/main/resources
+2017-07-09 15:28:26,459 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-09 15:28:26,459 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/test/resources
+2017-07-09 15:29:36,393 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-09 15:29:36,393 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/main/resources
+2017-07-09 15:29:36,395 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-09 15:29:36,395 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/test/resources
+2017-07-09 15:30:31,374 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-09 15:30:31,374 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/main/resources
+2017-07-09 15:30:31,375 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-09 15:30:31,375 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/test/resources
+2017-07-09 16:05:29,424 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-09 16:05:29,425 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/main/resources
+2017-07-09 16:05:29,426 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-09 16:05:29,426 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ltaylor/maven-git-test/testclasses/src/test/resources
